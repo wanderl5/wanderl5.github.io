@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[213],{629:function(t,n,l){"use strict";l.r(n);var s=l(2),i=Object(s.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("ul",[t("li",[this._v("结束是Ctrl + z（Windows）, Ctrl + d (linux/mac键盘)")])])])}),[],!1,null,null,null);n.default=i.exports}}]);
